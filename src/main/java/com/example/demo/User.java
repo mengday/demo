@@ -11,5 +11,5 @@ package com.example.demo;
  */
 public class User {
 
-    private Long id;
+    private Integer id;
 }
