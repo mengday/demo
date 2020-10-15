@@ -9,7 +9,5 @@ package com.example.demo;
  * @version 1.0
  * @since 2020/10/15
  */
-public class User {
-
-    private Long id;
+public class UserInfo {
 }
