@@ -10,4 +10,6 @@ package com.example.demo;
  * @since 2020/10/15
  */
 public class User {
+
+    private Long id;
 }

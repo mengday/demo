@@ -11,7 +11,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         log.info("DemoApplication Runing");
         SpringApplication.run(DemoApplication.class, args);
-        log.info("DemoApplication Success");
+        log.info("DemoApplication Success!");
     }
 
 }
